@@ -1,0 +1,13 @@
+# .gitignore for UTS HUNTERS
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+.env
+*.csv.bak
+.DS_Store
+.streamlit/secrets.toml
